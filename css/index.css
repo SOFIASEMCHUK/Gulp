@@ -1,0 +1,21 @@
+.header {
+  color: red;
+}
+.header__title {
+  font: 600 1rem Arial;
+  text-align: center;
+  color: #000;
+  transition: all ease-in-out 0.3s;
+}
+.header__title:hover {
+  color: rgba(18, 243, 18, 0.9176470588);
+}
+.header h3 {
+  font: 600 3rem/2rem Arial;
+}
+.header__desc {
+  font: 400 0.8rem Arial;
+}
+.header__desc span {
+  color: rgba(18, 243, 18, 0.9176470588);
+}
